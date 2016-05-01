@@ -13,6 +13,6 @@ int main()
 		}
 		std::cout << std::endl;
 	}
-
+	int i;
 	return 0;
 }
